@@ -31,3 +31,4 @@ git config --global user.email "jackson.c.reynolds22@gmail.com
 * commit without -m -> Use Esc :Wq to quit Vim
 * wrong message --> git commit --amend -m"New Message"
 * wrong commit --> git checkout COMMIT_ID
+ywguduywduhiudhu
