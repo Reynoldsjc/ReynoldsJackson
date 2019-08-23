@@ -8,7 +8,7 @@ git config --global user.email "jackson.c.reynolds22@gmail.com
 #Project Setup
  'git init'
  'touch .gitignore'
- Add '*class to the .gitignore and save it.
+ Add '*.class' to the .gitignore and save it.
  'git add.'
  'git commit -m "Initial Commit"'
 ## 3 step Repeating Commit Process
