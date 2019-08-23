@@ -6,9 +6,11 @@ git config --global user.name "Jackson Reynolds"
 git config --global user.email "jackson.c.reynolds22@gmail.com
 
 #Project Setup
-
-'git init'
-
+ 'git init'
+ 'touch .gitignore'
+ Add '*class to the .gitignore and save it.
+ 'git add.'
+ 'git commit -m "Initial Commit"'
 ## 3 step Repeating Commit Process
 1. make changes to code
 2. Stage related changes
@@ -31,4 +33,4 @@ git config --global user.email "jackson.c.reynolds22@gmail.com
 * commit without -m -> Use Esc :Wq to quit Vim
 * wrong message --> git commit --amend -m"New Message"
 * wrong commit --> git checkout COMMIT_ID
-ywguduywduhiudhu
+
